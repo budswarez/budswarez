@@ -28,13 +28,15 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas & Atividade
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=budswarez&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=budswarez&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="165" />
+  <img src="https://streak-stats.demolab.com?user=budswarez&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="175" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=budswarez&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
 ---
 
 <p align="center">
